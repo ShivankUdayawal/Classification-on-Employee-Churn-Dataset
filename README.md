@@ -34,3 +34,47 @@ In this case study, a HR dataset was sourced from IBM HR Analytics Employee Attr
 * WorkLife Balance : 1 = 'Bad' , 2 = 'Good' , 3 = 'Better' , 4 = 'Best'
 
 ## Data Visualization 
+
+![](https://github.com/ShivankUdayawal/Classification-on-Employee-Churn-Dataset/blob/main/Data%20Visualizing/dist.jpg)
+
+![](https://github.com/ShivankUdayawal/Classification-on-Employee-Churn-Dataset/blob/main/Data%20Visualizing/Age.jpg)
+
+![](https://github.com/ShivankUdayawal/Classification-on-Employee-Churn-Dataset/blob/main/Data%20Visualizing/Age1.jpg)
+
+![](https://github.com/ShivankUdayawal/Classification-on-Employee-Churn-Dataset/blob/main/Data%20Visualizing/gender.jpg)
+
+![](https://github.com/ShivankUdayawal/Classification-on-Employee-Churn-Dataset/blob/main/Data%20Visualizing/maritalstatus.jpg)
+
+![](https://github.com/ShivankUdayawal/Classification-on-Employee-Churn-Dataset/blob/main/Data%20Visualizing/jobrole.jpg)
+
+![](https://github.com/ShivankUdayawal/Classification-on-Employee-Churn-Dataset/blob/main/Data%20Visualizing/yearatcompany.jpg)
+
+![](https://github.com/ShivankUdayawal/Classification-on-Employee-Churn-Dataset/blob/main/Data%20Visualizing/Department.jpg)
+
+![](https://github.com/ShivankUdayawal/Classification-on-Employee-Churn-Dataset/blob/main/Data%20Visualizing/departmentwithattrition.jpg)
+
+![](https://github.com/ShivankUdayawal/Classification-on-Employee-Churn-Dataset/blob/main/Data%20Visualizing/ducationfield.jpg)
+
+![](https://github.com/ShivankUdayawal/Classification-on-Employee-Churn-Dataset/blob/main/Data%20Visualizing/educationfieldwithattrition.jpg)
+
+![](https://github.com/ShivankUdayawal/Classification-on-Employee-Churn-Dataset/blob/main/Data%20Visualizing/education.jpg)
+
+![](https://github.com/ShivankUdayawal/Classification-on-Employee-Churn-Dataset/blob/main/Data%20Visualizing/ducationwithattrition.jpg)
+
+![](https://github.com/ShivankUdayawal/Classification-on-Employee-Churn-Dataset/blob/main/Data%20Visualizing/monthlyincomewithdailyrate.jpg)
+
+![](https://github.com/ShivankUdayawal/Classification-on-Employee-Churn-Dataset/blob/main/Data%20Visualizing/correlation.jpg)
+
+![](https://github.com/ShivankUdayawal/Classification-on-Employee-Churn-Dataset/blob/main/Data%20Visualizing/attrition.jpg)
+
+![](https://github.com/ShivankUdayawal/Classification-on-Employee-Churn-Dataset/blob/main/Data%20Visualizing/decisiontreewithentropy.jpg)
+
+
+![](https://github.com/ShivankUdayawal/Classification-on-Employee-Churn-Dataset/blob/main/Data%20Visualizing/decisiontreewithgini.jpg)
+
+
+![](https://github.com/ShivankUdayawal/Classification-on-Employee-Churn-Dataset/blob/main/Data%20Visualizing/Roc.jpg)
+
+![](https://github.com/ShivankUdayawal/Classification-on-Employee-Churn-Dataset/blob/main/Data%20Visualizing/features.jpg)
+
+
